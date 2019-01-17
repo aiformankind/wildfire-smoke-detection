@@ -1,0 +1,26 @@
+<annotation>
+    <folder>tmpenqgsts7</folder>
+    <filename>cjprspwt6pfmm0873yltl2blq.jpeg</filename>
+    <path>/tmp/tmpenqgsts7/cjprspwt6pfmm0873yltl2blq.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Smoke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>132</xmin>
+                <ymin>249</ymin>
+                <xmax>617</xmax>
+                <ymax>372</ymax>
+            </bndbox>
+        </object>
+    </annotation>
