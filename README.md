@@ -1,6 +1,8 @@
 # Wildfire-Detection
 
-In this tutorial, we will show you how to build an object detector for a wildfire smoke dataset. You can find the custom dataset in the input/images folder. The goal is to detect wildfire smokes in the images.
+In this tutorial, we will show you how to build an object detector using a wildfire smoke image dataset curated by [Center for Wildfire Research of University of Split, Croatia](http://wildfire.fesb.hr/)
+
+You can find the custom dataset in the input/images folder. The goal is to detect wildfire smokes in the images.
 
 <p float="left">
 <img src=docs/wildfire-detect.png />
